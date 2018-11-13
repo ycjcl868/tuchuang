@@ -15,7 +15,7 @@
     "formidable": "^1.0.17",
     "imagemin": "^4.0.0",
     "jade": "~1.11.0",
-    "morgan": "~1.6.1",
+    "morgan": "~1.9.1",
     "serve-favicon": "~2.3.0",
     "tinify": "^1.1.1"
   }
